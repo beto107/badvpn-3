@@ -13,11 +13,10 @@
 
 Copia y pega el siguiente comando para realizar la instalación
 
-`wget https://raw.githubusercontent.com/powermx/badvpn/master/easyinstall && bash easyinstall`
+`wget https://raw.githubusercontent.com/diesel09/badvpn/master/easyinstall
 
+## Visita mi blog ##
 
-Android México Team / PwrMX
-=========
+https://tekaxenlinea.blogspot.com/
 
-# Telegram: http://t.me/pwrmx/
-# Blog: http://powermx.org/
+## NetFree MX ##
