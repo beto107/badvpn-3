@@ -13,7 +13,7 @@
 
 Copia y pega el siguiente comando para realizar la instalación
 
-`wget https://raw.githubusercontent.com/diesel09/badvpn/master/easyinstall
+wget https://raw.githubusercontent.com/diesel09/badvpn/master/easyinstall && bash easyinstall
 
 ## Visita mi blog ##
 
